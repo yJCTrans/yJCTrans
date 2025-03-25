@@ -1,3 +1,4 @@
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=yJCTrans" /> </div>
 - 👋 Hi, I’m @yJCTrans
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Vision Transformer and domain generalization
