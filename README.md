@@ -20,4 +20,4 @@
 
 <img width="300%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yJCTrans)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yJCTrans)](https://github.com/ashutosh00710/github-readme-activity-graph)
